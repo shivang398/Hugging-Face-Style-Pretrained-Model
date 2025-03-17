@@ -134,8 +134,3 @@ The module supports all DeepChem model types, including:
 - ScScoreModel
 - AttentiveFPModel
 - Keras and PyTorch-based models
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
